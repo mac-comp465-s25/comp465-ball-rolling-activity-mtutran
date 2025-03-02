@@ -7,6 +7,7 @@ using namespace MinVR;
 #include <glm/glm.hpp>
 #include <glm/gtc/type_ptr.hpp>
 #include <vector>
+#include <glm/gtc/matrix_transform.hpp>
 
 #ifdef _WIN32
 #include "GL/glew.h"
